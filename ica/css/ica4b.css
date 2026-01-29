@@ -1,9 +1,6 @@
 /* || General setup */
 
-* {
-    outline: 5px solid red;
-  }
-  
+
 
 html, body {
     margin: 0;
@@ -19,7 +16,6 @@ html, body {
     width: 70%;
     min-width: 800px;
     margin: 0 auto;
-    background-color: hotpink;
   }
   
   /* || typography */
@@ -81,6 +77,7 @@ html, body {
     display: block;
     height: 60px;
     padding-top: 20.15px;
+    display: flex;
   }
   
   nav {

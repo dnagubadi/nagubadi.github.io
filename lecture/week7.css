@@ -1,0 +1,12 @@
+.box{
+    border: 5px solid red;
+    height: 100px;
+    width: 100px;
+}
+
+#box2{
+    border: 5px dashed green;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+}
